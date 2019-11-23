@@ -1,3 +1,4 @@
-# C-Programming
-In this repo you can contribute different c programs that you built while learninig the same 
-Any Contribution regarding that will be entertained and you can contribute in C++ also
+# Important-Programs
+In this repo you can contribute in all different  programs that you built
+while learninig programming , any Contribution regarding that will be 
+entertained 
